@@ -1,3 +1,6 @@
+"fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
 {
   "id": 1235437513,
   "node_id": "R_kgDOSaNHyQ",
@@ -27,7 +30,7 @@
   },
   "html_url": "https://github.com/Deekshith-101/github-final-project",
   "description": "DevOps",
-  "fork": false,
+  "fork": true,
   "url": "https://api.github.com/repos/Deekshith-101/github-final-project",
   "forks_url": "https://api.github.com/repos/Deekshith-101/github-final-project/forks",
   "keys_url": "https://api.github.com/repos/Deekshith-101/github-final-project/keys{/key_id}",

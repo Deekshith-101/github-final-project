@@ -1,6 +1,3 @@
-  bug-fix-revert             b2b6543 Fix Q7: Add explicit merge terminal output showing modified README
-  bug-fix-typo               b2b6543 Fix Q7: Add explicit merge terminal output showing modified README
-* main                       b2b6543 Fix Q7: Add explicit merge terminal output showing modified README
-  remotes/origin/HEAD        -> origin/main
-  remotes/origin/IBM-Pratice e1d0e61 Add print statement in testchild.py
-  remotes/origin/main        b2b6543 Fix Q7: Add explicit merge terminal output showing modified README
+* main            d95ccf9 [origin/main] Fix file structures
+  bug-fix-revert  b0dbe51 Add revert notes
+  bug-fix-typo    705cc44 Fix typo in readme

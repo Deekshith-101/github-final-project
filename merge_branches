@@ -1,7 +1,8 @@
-user@codespace:/workspaces/github-final-project$ git checkout main
+Deekshith-101:~/workspaces/github-final-project$ git checkout main
 Switched to branch 'main'
-user@codespace:/workspaces/github-final-project$ git merge bug-fix-typo
-Updating 705cc44..b0dbe51
+Your branch is up to date with 'origin/main'.
+Deekshith-101:~/workspaces/github-final-project$ git merge bug-fix-typo
+Updating d95ccf9..b0dbe51
 Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
